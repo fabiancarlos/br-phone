@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'br-phone'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2016-11-18'
   s.summary     = "Phone generator for pt-BR!"
   s.description = "A generator of phones to pt-BR conditions!"

@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    br-phone (0.0.0)
+    br-phone (0.0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -26,7 +26,7 @@ PLATFORMS
 
 DEPENDENCIES
   br-phone!
-  rspec
+  rspec (~> 3.5.0, >= 3.5.0)
 
 BUNDLED WITH
    1.13.6
