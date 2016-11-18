@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/br-phone.rb"]
   s.homepage    = 'http://rubygems.org/gems/br-phone'
   s.license     = 'MIT'
+  s.add_development_dependency "rspec"
 end
