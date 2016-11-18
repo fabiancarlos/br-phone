@@ -9,6 +9,8 @@ Gem::Specification.new do |s|
   s.files       = ["lib/br-phone.rb"]
   s.homepage    = 'http://rubygems.org/gems/br-phone'
   s.license     = 'MIT'
+  s.files       = ["lib/br-phone.rb"]
+  s.executables << 'br-phone'
   
   s.required_ruby_version = '>= 2.2.2'
   
