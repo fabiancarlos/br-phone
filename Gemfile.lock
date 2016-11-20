@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    br-phone (0.0.2)
+    br-phone (0.1.2)
 
 GEM
   remote: https://rubygems.org/
