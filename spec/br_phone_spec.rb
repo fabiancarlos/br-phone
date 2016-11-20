@@ -29,8 +29,6 @@ describe Br_phone do
   end
 
   INVALID_PHONES.each do |phone|
-    puts "PHONE >> #{phone}"
-
     describe "#phone_is_valid?" do
       it "return false if phone is invalid" do
         expect(Br_phone.phone_is_valid? phone).to eq(false)
