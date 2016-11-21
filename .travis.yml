@@ -1,0 +1,8 @@
+language: ruby
+
+rvm:
+- 2.2.2
+- 2.3.1
+- ruby-head
+
+script: rspec spec/br_phone_spec.rb
