@@ -6,3 +6,5 @@ rvm:
 - ruby-head
 
 script: rspec spec/br_phone_spec.rb
+
+install: gem install rspec
